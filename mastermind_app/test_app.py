@@ -2,8 +2,6 @@
 import pytest
 import json
 
-# First party modules
-#from mastermind_app.app import create_app
 import app as MMapp
 
 @pytest.fixture
